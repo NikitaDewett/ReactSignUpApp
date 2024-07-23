@@ -1,0 +1,14 @@
+.password-validator {
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: left;
+    color: #4A4E71;
+    ;
+}
+.password-validator-error {
+    color: #FF8080;
+}
+.password-validator-correct {
+    color: #27B274;
+}
